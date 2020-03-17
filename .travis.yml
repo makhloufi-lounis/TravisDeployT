@@ -22,4 +22,4 @@ deploy:
   keep_history: true
   on:
    branch: master
-after_deploy: echo 50
+after_deploy: echo 60
